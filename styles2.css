@@ -1,0 +1,50 @@
+.sp {
+    width: 100%;
+    height: 700px;
+    position: relative;
+}
+.header {
+    width: fit-content;
+    color: white;
+    background-color:darkblue;
+    margin : 0px auto 0px auto;
+    padding: 2px;
+    font-weight: 500;
+    font-size:large;
+}
+.dr {
+    width: 170px;
+    border: 6px solid blueviolet;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    padding: 6px;
+    font-weight: 600;
+}
+.tr {
+    width: 170px;
+    border: 6px solid darkgreen;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    padding: 6px;
+    font-weight: 600;
+}
+.tl {
+    width: 170px;
+    border: 6px solid orange;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    padding: 6px;
+    font-weight: 600;
+}
+.dl {
+    width: 170px;
+    border: 6px solid yellow;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    padding: 6px;
+    font-weight: 600;
+}
